@@ -1,0 +1,37 @@
+ 
+Class Employee
+{
+    int id;
+    string name;
+    string department;
+    int leave_balance;
+    function projectsDetails(projectName, projectDelieveryDate)
+    function applyForLeave(startDate, endDate)
+}
+ 
+ 
+Class leaveApplication
+ {
+    int employeeId;
+    string leaveType;
+    string startDate;
+    string endDate;
+    function LeaveStauts()
+}
+
+Class Manager
+{
+ ReviewApplication()
+ updateLeaveApplication()
+ checkProjectRequriment()
+} 
+
+Class HRMS
+{
+ ProcessLeaveApplication()
+}
+ 
+ 
+
+
+
